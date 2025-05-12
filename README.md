@@ -20,6 +20,7 @@ git clone https://github.com/your-username/nodejs-demo-app.git
 cd nodejs-demo-app
 npm install
 npm start
+Open your browser and visit http://localhost:3000
 
 ## Running with Docker
 
